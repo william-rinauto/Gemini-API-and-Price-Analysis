@@ -1,0 +1,7 @@
+Potential source of historical price data:
+
+Free manual download:
+https://www.cryptodatadownload.com/data/gemini/
+
+Looks like paid api:
+https://data.cryptocompare.com/data/historical
